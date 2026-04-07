@@ -1,0 +1,11 @@
+cruise_line,parent_corp,co2_per_nmi_kg,data_source,year
+Disney Cruise Line,Disney,1481,Which? 2024 EU MRV study,2023
+Norwegian Cruise Line,NCL Holdings,1413,Transport & Environment EU MRV,2023
+Princess Cruises,Carnival Corp,1253,Transport & Environment EU MRV,2023
+Royal Caribbean Intl,Royal Caribbean Group,1248,Transport & Environment EU MRV,2023
+MSC Cruises,MSC (independent),1050,EU MRV estimated average,2023
+Carnival Cruise Line,Carnival Corp,980,EU MRV estimated average,2023
+Costa Cruises,Carnival Corp,920,EU MRV estimated average,2023
+AIDA Cruises,Carnival Corp,870,EU MRV estimated average,2023
+Celebrity Cruises,Royal Caribbean Group,830,EU MRV estimated average,2023
+Hurtigruten,Hurtigruten Group,210,ICCT verified,2023
