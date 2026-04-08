@@ -64,7 +64,7 @@ cruise_degrowth/
 - **CLIA** (2025). *State of the Cruise Industry Report 2025*. Cruise Lines International Association.
 - **Notteboom, T., Pallis, A. & Rodrigue, J-P.** (2026). *Port Economics, Management and Policy* (2nd ed.). Routledge.
 - **Transport & Environment** (2025). Cruise ship pollution exceeds urban emission levels.
-- **Which?** (2024). EU MRV verified emissions data for cruise lines in European waters.
+- **EU MRV** (2024). EU MRV verified emissions data for cruise lines in European waters.
 - **ICCT** (2025). Cruise the seas or cruise down the road? International Council on Clean Transportation.
 - **Friends of the Earth** (2024). Cruise ship report card.
 - **ScienceDaily** (2024). Cruise ships must be effectively regulated.
