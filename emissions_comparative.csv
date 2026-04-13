@@ -5,8 +5,8 @@ Corporate annual,MSC Cruises,2.8,Estimated from fleet data (million tonnes CO2),
 Corporate annual,NCL Holdings,1.9,Estimated from fleet data (million tonnes CO2),T&E / EMSA 2023
 City comparison,Glasgow city,2.43,2021 official figures (million tonnes CO2),Glasgow City Council
 City comparison,Carnival carbon alone,2.5,Carbon dioxide only of 9.5Mt total (million tonnes CO2),T&E 2025
-Daily kg CO2 per person,Cruise passenger,0.421,Per day average (kg CO2),Friends of the Earth
-Daily kg CO2 per person,Long-haul flight (daily avg),0.130,Based on 10hr flight / days of trip (kg CO2),ICCT 2025
-Daily kg CO2 per person,Average European,0.030,Annual total / 365 days (kg CO2),Eurostat 2023
-Daily kg CO2 per person,4-star hotel night,0.025,Per night (kg CO2),Cornell Hotel Sustainability Tool 2024
+Daily kg CO2 per person,Cruise passenger,421,Per day average (kg CO2),Friends of the Earth
+Daily kg CO2 per person,Long-haul flight (daily avg),130,Based on 10hr flight / days of trip (kg CO2),ICCT 2025
+Daily kg CO2 per person,Average European,30,Annual total / 365 days (kg CO2),Eurostat 2023
+Daily kg CO2 per person,4-star hotel night,25,Per night (kg CO2),Cornell Hotel Sustainability Tool 2024
 Energy comparison,Cruise ship per night (kWh equiv),12.0,Multiplier vs land-based hotel,ScienceDaily 2024
